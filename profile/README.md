@@ -1,27 +1,28 @@
-# LushMC
+# Welcome to the LushMC Network's Public Repositories!
 
-**LushMC** is a community-driven Minecraft server network focused on delivering an authentic and engaging Minecraft experience. We're dedicated to providing unique gameplay, free from Pay-to-Win mechanics, while ensuring a welcoming environment for players of all kinds.
+Thanks for stopping by! This organization hosts the public-facing code, plugins, and resources for the LushMC Network — a community-driven Minecraft server network.
 
-## Features
+## Contributing
 
-- 🎮 **Cross-Platform Support**: Play on both Java and Bedrock editions of Minecraft.
-- 🌍 **Community-Focused**: Join a vibrant community where player collaboration and creativity thrive.
-- ⛏️ **Skyblock & Survival**: 
-  - **Skyblock**: Challenge yourself with a classic Skyblock experience, but with a twist!
-  - **Survival**: Enjoy a unique Survival experience with player-led projects, fresh updates, and tons of custom features.
-- 🚫 **No Pay-to-Win**: Our server is entirely non-pay-to-win, with all items earned through gameplay.
+We welcome contributions from the community! If you'd like to submit a fix or feature:
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes
+4. Open a pull request describing what you did and why
 
-## Mission
+Please make sure your code follows our existing style conventions and includes relevant tests where applicable.
 
-At **LushMC**, we believe in keeping the true essence of Minecraft alive. We're not just another server—we're creating a place where creativity meets adventure, and where players can forge meaningful connections and explore the limitless possibilities of Minecraft.
+## License
 
-## Join Us
+Unless otherwise noted, code in these repositories is released under the [MIT License](https://mit-license.org). Check individual repositories for specifics.
 
-- **Server IP**: `play.lushmc.fun`
-- **Website**: https://lushmc.fun
-- **Discord**: https://discord.gg/lushmc
+## Community & Support
 
-Whether you're a seasoned player or new to Minecraft, there's something for everyone at **LushMC**. Come be part of our growing community!
+If you have any comments or concerns, feel free to join our community. Essential links are provided below:
+- Discord: [.gg/LushMC](https://discord.gg/wy8rnKzd8s)
+- Website: [lushmc.fun](https://www.lushmc.fun/)
+- Issues: Use the GitHub Issues tab on the relevant repository for bug reports or feature requests
 
----
-Made with ❤️ by the LushMC Team
+--
+
+*Thanks for being part of the LushMC community — happy coding!*
