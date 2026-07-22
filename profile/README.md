@@ -23,6 +23,6 @@ If you have any comments or concerns, feel free to join our community. Essential
 - Website: [lushmc.fun](https://www.lushmc.fun/)
 - Issues: Use the GitHub Issues tab on the relevant repository for bug reports or feature requests
 
---
+---
 
 *Thanks for being part of the LushMC community — happy coding!*
